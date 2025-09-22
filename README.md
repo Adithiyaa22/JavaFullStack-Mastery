@@ -62,9 +62,12 @@ I’ll be documenting **concepts, code, projects, and resources** phase by phase
 ---
 
 ## 📂 Repo Structure
-Phase-1-Foundations/
-Phase-2-Backend-Mastery/
-Phase-3-Frontend-Framework/
-Phase-4-DevOps-Cloud/
-Phase-5-DSA-Competitive/
-Phase-6-Portfolio-Resume/
+Phase-1-Foundations/<br>
+Phase-2-Backend-Mastery/<br>
+Phase-3-Frontend-Framework/<br>
+Phase-4-DevOps-Cloud/<br>
+Phase-5-DSA-Competitive/<br>
+Phase-6-Portfolio-Resume/<br>
+
+
+
