@@ -70,4 +70,15 @@ Phase-5-DSA-Competitive/<br>
 Phase-6-Portfolio-Resume/<br>
 
 
+---
 
+## 🛠️ Tech Stack
+- **Backend:** Java, Spring Boot, Hibernate, JPA  
+- **Frontend:** Angular, React, HTML, CSS, JavaScript  
+- **Database:** MySQL, MongoDB  
+- **DevOps & Cloud:** GitHub, Docker, Jenkins, AWS  
+- **Other:** DSA, System Design, Competitive Coding  
+
+---
+
+⭐ Star this repo if you also want to become a **Java Full Stack Developer**!
